@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resume Project</title>
+</head>
+<body>
+	<div class="parent">
+		<div class="child1">
+			<img src="penguins.jpg" alt="image">
+			<h1>Rukmini</h1>
+			<p>6301353202</p>
+			<a href="mailto:durgabandaru2001@gmail.com">durgabandaru2001@gmail.com</a>
+			<h1>Address</h1>
+			<hr>
+			<p>Gajuwaka,<br>
+				Vizag<br></p>
+		</div>
+		<div class="child2">
+			<h2>Career Objective</h2>
+			<hr>
+			<p>To become a SURPRISE PLANNER</p>
+			<hr>
+			<h2>Educational Qualification</h2>
+			<hr>
+			<table border="1">
+				<tr>
+					<th>Institute</th>
+					<th>Degree</th>
+					<th>Percentage</th>
+					<th>Pass outyear</th>
+				</tr>
+				<tr>
+					<td>View College</td>
+					<td>BTech</td>
+					<td>80</td>
+					<td>2018-2022</td>
+				</tr>
+				<tr>
+					<td>Sri Chaitanya college</td>
+					<td>inter</td>
+					<td>97</td>
+					<td>2016-2018</td>
+				</tr>
+				<tr>
+					<td>Ravindra Bharathi School</td>
+					<td>SSC</td>
+					<td>98</td>
+					<td>2016</td>
+				</tr>
+			</table>
+			<h2>Technicalskills</h2>
+			<hr>
+			<h4>Programming known</h4>
+			<ul>
+				<li>C</li>
+				<li>C++</li>
+				<li>PYTHON</li>
+				<li>JAVA</li>
+			</ul>
+			<hr>
+			<h4>Databases known</h4>
+			<ul>
+				<li>oracle</li>
+				<li>SQL</li>
+			</ul>
+			<hr>
+			<h4>Operating System known</h4>
+			<ul>
+				<li>Windows 7,9,10</li>
+				<li>LINUX</li>
+				<li>ubuntu</li>
+			</ul>
+
+		</div>
+	</div>
+</body>
+</html>
